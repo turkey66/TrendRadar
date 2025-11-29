@@ -86,6 +86,10 @@ mac
 
 ios
 
+andriod
+
+安卓
+
 北上广
 
 北上广深
