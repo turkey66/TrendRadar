@@ -122,6 +122,8 @@ Lazada
 SHEIN
 shopee
 temu
+tk
+tiktok
 
 跨境
 
